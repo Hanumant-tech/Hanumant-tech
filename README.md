@@ -15,7 +15,7 @@ Passionate developer and tech enthusiast from India. I enjoy exploring new techn
 
 ## 🏅 Achievements & Experience  
 
-- Organized multiple sports events (Kabaddi, Cricket, Kho-Kho) at **college & school level**  
+- Participated in **NSS camp**, contributing to social service and community development 🌱  
 - Active participant in **Hackathons** and project building competitions  
 
 ---
@@ -27,8 +27,7 @@ Passionate developer and tech enthusiast from India. I enjoy exploring new techn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+
 
 ---
 
