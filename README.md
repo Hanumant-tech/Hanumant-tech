@@ -1,29 +1,38 @@
-👋 Hey there, I’m Hanumant!
+# Hey there, I’m Hanumant! 👋  
 
-💡 Passionate coder and tech enthusiast from India. I enjoy solving problems, exploring new technologies, and building impactful projects.
+Passionate developer and tech enthusiast from India. I enjoy exploring new technologies, building impactful projects, and continuously sharpening my programming skills.  
 
-🚀 Current Focus
+---
 
-Strengthening my programming foundation in Java, Swing, Python, and C++
+## 🚀 Current Focus  
 
-Developing interactive web applications using HTML, CSS, JavaScript, and SQL
+- Learning and building projects with **Django & SQLite**  
+- Exploring **Database Management Systems (DBMS)** and **PL/SQL**  
+- Strengthening foundations in **C, C++ & Python**  
+- Working on **real-life problem-solving projects** like Smart Parking and Disaster Response Analytics  
 
-Learning Django + SQLite for backend development
+---
 
-Exploring Database Management Systems and Software Engineering concepts
+## 🏅 Achievements & Experience  
 
-🏅 Highlights
+- Organized multiple sports events (Kabaddi, Cricket, Kho-Kho) at **college & school level**  
+- Active participant in **Hackathons** and project building competitions  
 
-🌱 Presented an AI-based Agricultural Solution → Ranked in Top 8 teams
+---
 
-🚗 Developed Smart Parking Management System → Hackathon finalist
+## 🛠 Languages & Tools  
 
-🔥 Created Online Fire Reporting System using Django + SQLite
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
 
-🛠️ Skills & Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> </p>
-📬 Let’s Connect
+---
 
-💬 Always open to discussions, collaborations, and new ideas
+## 📬 Let’s Connect  
 
-📧 Reach me at: kshirsagarhanumant388@gmail.com
+💬 Always open to discussions, collaborations, and new ideas.  
+📧 Reach me at: **kshirsagarhanumant388@gmail.com**
